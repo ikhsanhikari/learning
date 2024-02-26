@@ -170,7 +170,7 @@ def save_to_pdf(video_id, title, subtitles,folder):
 
 if __name__ == "__main__":
     # Masukkan API key dan ID playlist Anda di sini
-    api_key = "AIzaSyBi4yf5crSjr2czTVlLaCHbuGAeMu5qt6A"
+    api_key = ""
     channel_id = "UCl9J4WO7n4Zj4GqzeSnW5GQ"
 
     get_channel_playlists(api_key,channel_id)
